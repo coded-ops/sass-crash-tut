@@ -7,6 +7,7 @@
 
 ### using vscode extension Live Sass Compiler
 - https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
+- Live Reload to browser (Dependency on Live Server extension) -> https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 - VSCode settings.json:
 ```
     "liveServer.settings.donotShowInfoMsg": true,
